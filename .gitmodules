@@ -4,3 +4,6 @@
 [submodule "Team_28/Callwise-Frontend"]
 	path = Team_28/Callwise-Frontend
 	url = https://github.com/Team-Trailblazers-SOLVIT/Callwise-frontend
+[submodule "Team_28/Echo-Callbot"]
+	path = Team_28/Echo-Callbot
+	url = https://github.com/Architgarg2003/Echo
