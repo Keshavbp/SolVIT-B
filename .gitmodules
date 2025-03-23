@@ -7,3 +7,6 @@
 [submodule "Team_28/Echo-Callbot"]
 	path = Team_28/Echo-Callbot
 	url = https://github.com/Architgarg2003/Echo
+[submodule "Team_28/Aura-Bot"]
+	path = Team_28/Aura-Bot
+	url = https://github.com/Team-Trailblazers-SOLVIT/Aura-Bot
