@@ -1,7 +1,7 @@
-# DUKAAN
+# DUKAAN 
 
 ## Overview
-
+### Link to original project -> https://github.com/adityjoshi/Dosahostel
 This project is a comprehensive procurement and inventory management system designed to streamline order processing, vendor communication, and customer invoicing. It consists of the following three main components:
 
 1. **Chatbot for Procurement and Tracking** – A WhatsApp chatbot that allows users to place orders, track orders, and automatically send email notifications to vendors.
