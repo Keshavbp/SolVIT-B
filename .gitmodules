@@ -10,3 +10,6 @@
 [submodule "Team_28/Aura-Bot"]
 	path = Team_28/Aura-Bot
 	url = https://github.com/Team-Trailblazers-SOLVIT/Aura-Bot
+[submodule "Team_28/Stockly-MarketMitra"]
+	path = Team_28/Stockly-MarketMitra
+	url = https://github.com/Harshit-Dhundale/Hackathon
