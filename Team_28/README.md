@@ -1,6 +1,6 @@
 # 🚀 Inventory Management System Suite (IMS) 🛍️📊📞  
 
-## 👥 Team 28 - TrailBlazers 🏆
+## 👥 Team TrailBlazers 🏆
 🚀 **Project Contributors:**
 - 👑 **Archit Garg (Team Lead)** – 21BCE11235
 - 🔥 **Nikhil Kumar Yadav** – 21BCE10648
@@ -10,10 +10,24 @@
 ---
 
 ## 🌐 Live Links
+You can access the following platforms by clicking on these links:
+
 🔗 **Stockly (Admin Panel):** [Click Here](http://stockly-mu.vercel.app)  
 🔗 **MarketMitra (Client Side):** [Click Here](http://marketmitra.vercel.app)  
 
-**A Complete Retail Automation Suite for Seamless Inventory & Sales Management**
+---
+
+## 📂 GitHub Repositories
+
+🔗 **Callwise Backend:** [Click Here](https://github.com/Team-Trailblazers-SOLVIT/callwise-backend)  
+🔗 **Callwise Frontend:** [Click Here](https://github.com/Team-Trailblazers-SOLVIT/Callwise-frontend)  
+🔗 **Echo Callbot:** [Click Here](https://github.com/Architgarg2003/Echo)  
+🔗 **AURA Bot:** [Click Here](https://github.com/Team-Trailblazers-SOLVIT/Aura-Bot)  
+🔗 **Stockly & MarketMitra Repository:** [Click Here](https://github.com/Harshit-Dhundale/Hackathon)  
+
+---
+
+## **A Complete Retail Automation Suite for Seamless Inventory & Sales Management**
 
 This project consists of three major platforms, each designed to optimize and automate retail operations:
 
