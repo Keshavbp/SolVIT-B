@@ -1,3 +1,6 @@
 [submodule "Team_28/Callwise-Backend"]
 	path = Team_28/Callwise-Backend
 	url = https://github.com/Team-Trailblazers-SOLVIT/callwise-backend
+[submodule "Team_28/Callwise-Frontend"]
+	path = Team_28/Callwise-Frontend
+	url = https://github.com/Team-Trailblazers-SOLVIT/Callwise-frontend
