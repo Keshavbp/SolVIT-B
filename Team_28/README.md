@@ -1,11 +1,17 @@
-## 👥 Team TrailBlazers 🏆
-🚀 **Project Contributors:**
-- Archit Garg (Team Lead) – 21BCE11235
-- Nikhil Kumar Yadav – 21BCE10648
-- Harshit Dhundale – 21BCE11454
-- Sanya Bhambhani – 21BCE10046
+# 🚀 Inventory Management System Suite (IMS) 🛍️📊📞  
 
-# 🚀 Inventory Management System Suite (IMS) 🛍️📊📞
+## 👥 Team 28 - TrailBlazers 🏆
+🚀 **Project Contributors:**
+- 👑 **Archit Garg (Team Lead)** – 21BCE11235
+- 🔥 **Nikhil Kumar Yadav** – 21BCE10648
+- 💡 **Harshit Dhundale** – 21BCE11454
+- 🎯 **Sanya Bhambhani** – 21BCE10046
+
+---
+
+## 🌐 Live Links
+🔗 **Stockly (Admin Panel):** [Click Here](http://stockly-mu.vercel.app)  
+🔗 **MarketMitra (Client Side):** [Click Here](http://marketmitra.vercel.app)  
 
 **A Complete Retail Automation Suite for Seamless Inventory & Sales Management**
 
@@ -16,52 +22,6 @@ This project consists of three major platforms, each designed to optimize and au
 - 🤖 **AURA Bot (Telegram Bot)** – AI-driven retail assistant for instant inventory checks.
 - 📞 **Echo CallBot** – Voice-powered call assistant for non-tech users.
 - 🔗 **Backend** – Node.js & MongoDB-based API system for smooth data management.
-
----
-
-## ⚙️ Installation & Setup
-
-### 🔧 Prerequisites
-Ensure you have the following installed:
-- 🖥️ **Node.js** (v14 or later)
-- 📦 **npm** or **yarn**
-- 🗄️ **MongoDB** (Local or Cloud Instance)
-
-### 📥 Clone Repository
-```sh
-git clone <your-repo-url>
-cd <repo-folder>
-```
-
-### 🚀 Install Dependencies & Run the Application
-
-#### 🔙 Backend
-```sh
-cd backend
-npm install
-npm start
-```
-✅ Ensure MongoDB is running before starting the backend.
-
-#### 🏢 Admin Panel (Stockly)
-```sh
-cd ../admin
-npm install
-npm start
-```
-
-#### 🛍️ Client Side (MarketMitra)
-```sh
-cd ../client
-npm install
-npm start
-```
-
-#### 🤖 AURA Bot (Telegram Bot)
-You can either set up your own bot by following the instructions in the [AURA Bot GitHub Repo](<AURA-BOT-REPO-URL>) or use our existing bot by requesting the **Chat ID**.
-
-#### 📞 Echo CallBot
-Set up your own Echo CallBot using the guide in the [Echo CallBot GitHub Repo](<ECHO-CALLBOT-REPO-URL>).
 
 ---
 
